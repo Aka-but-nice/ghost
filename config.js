@@ -1,7 +1,7 @@
 /**
- * @type {import('../uv').UltravioletCtor}
+ * @type {import('../uv').UVCtor}
  */
-const Ultraviolet = self.Ultraviolet;
+const uv = self.Ultraviolet;
 
 /**
  * @type {import('../uv').UVClientCtor}
